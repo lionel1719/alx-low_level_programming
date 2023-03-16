@@ -1,0 +1,10 @@
+# Ignore all
+*
+# Unignore all with extensions
+!*.*
+# Ignore ~ files
+*~
+# Ignore main.c
+*main.c
+a.out
+_putchar.c
